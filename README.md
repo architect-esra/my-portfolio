@@ -1,4 +1,4 @@
-# Yassine Karray — Portfolio
+# esra abidi — Portfolio
 
 موقع شخصي (Portfolio) لعرض المشاريع والمهارات، مبني بـ HTML, CSS, JavaScript فقط — بدون أي framework، سهل النشر على GitHub Pages.
 
